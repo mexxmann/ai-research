@@ -1,0 +1,40 @@
+# Assembled from github/gitignore templates:
+# Global/macOS, Global/Windows, Global/MicrosoftOffice, Global/LibreOffice, Global/Backup
+
+# macOS
+.DS_Store
+.localized
+__MACOSX/
+.AppleDouble
+.LSOverride
+Icon[]
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Microsoft Office temporary / backup files
+~$*.doc*
+~$*.dot*
+~$*.xls*
+~$*.ppt*
+Backup of *.doc*
+*.xlk
+*.~vsd*
+
+# LibreOffice locks
+.~lock.*#
+
+# Generic backup / temporary files
+*.bak
+*.back
+*.backup
+*.orig
+*.tmp
+*.temp
